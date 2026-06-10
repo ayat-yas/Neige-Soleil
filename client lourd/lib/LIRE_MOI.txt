@@ -1,0 +1,7 @@
+Placez ici le fichier mysql-connector-j.jar (driver JDBC MySQL).
+
+Téléchargement : https://dev.mysql.com/downloads/connector/j/
+Choisir "Platform Independent" → télécharger le .zip → extraire le .jar
+Renommer en : mysql-connector-j.jar
+
+Version recommandée : 8.x ou 9.x (compatible MySQL 5.7+)
